@@ -59,9 +59,6 @@ Hello! I'm **Malkhaz Malkhazov**, a **QA Engineer** with over three years of exp
 - Advanced training in **manual and automated testing**.
 - Gained hands-on experience in real-world projects.
 
-🎓 **Tbilisi State University of Economic Relations**
-- **Law Degree (2003 - 2006)**
-- **Finance and Banking (2001 - 2005)**
 
 ## 🌍 Languages
 - English
