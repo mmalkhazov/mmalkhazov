@@ -23,7 +23,7 @@ Hello! I'm **Malkhaz Malkhazov**, a **QA Engineer** with over three years of exp
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg"  height="40" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original-wordmark.svg"  height="40" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original-wordmark.svg"  height="40" width="40"/>
- width="40"/>  
+
 
 </p>
 
