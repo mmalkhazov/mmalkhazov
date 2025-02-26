@@ -53,6 +53,14 @@ Hello! I'm **Malkhaz Malkhazov**, a **QA Engineer** with over three years of exp
 - Analyzed user feedback and assisted in reproducing and resolving bugs.
 
 
+## 📂 Projects
+### **1. QA49 Demo Web Shop Final**
+🔗 [GitHub Repository](https://github.com/mmalkhazov/QA49_DemoWebShop_final)
+- Automated testing for an e-commerce web application.
+- Implemented test scripts using **Selenium WebDriver**.
+- Integrated **JUnit and TestNG** for test execution.
+
+
 
 ## 📜 Education
 🎓 **AIT-TR GmbH**, Berlin *(07/2024 – 02/2025)*  
@@ -67,3 +75,6 @@ Hello! I'm **Malkhaz Malkhazov**, a **QA Engineer** with over three years of exp
 - Russian (Native)
 - Georgian (Native)
 - Armenian
+
+<!-- ## 🌍 Languages  
+🇬🇧 English | 🇩🇪 German | 🇺🇦 Ukrainian | 🇷🇺 Russian (Native) | 🇬🇪 Georgian (Native) -->
