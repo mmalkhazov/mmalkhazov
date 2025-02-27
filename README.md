@@ -60,8 +60,8 @@ Hello! I'm **Malkhaz Malkhazov**, a **QA Engineer** with over three years of exp
 - Implemented test scripts using **Selenium WebDriver**.
 - Integrated **JUnit and TestNG** for test execution.
 
-### **2. QA49 Demo Web Shop Final**
-🔗 [GitHub Repository](https://github.com/mmalkhazov/Q49_PhonebookUI.git)
+### **2. PhonebookUI**
+🔗 [GitHub Repository](https://github.com/mmalkhazov/PhonebookUI)
 - Automated testing for an e-commerce web application.
 - Implemented test scripts using **Selenium WebDriver**.
 - Integrated **JUnit and TestNG** for test execution.
