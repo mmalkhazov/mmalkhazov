@@ -54,19 +54,40 @@ Hello! I'm **Malkhaz Malkhazov**, a **QA Engineer** with over three years of exp
 
 
 ## 📂 Projects
-### **1. QA49 Demo Web Shop Final**
-🔗 [GitHub Repository](https://github.com/mmalkhazov/QA49_DemoWebShop_final)
-- Automated testing for an e-commerce web application.
-- Implemented test scripts using **Selenium WebDriver**.
-- Integrated **JUnit and TestNG** for test execution.
 
-### **2. PhonebookUI**
-🔗 [GitHub Repository](https://github.com/mmalkhazov/PhonebookUI)
-- Automated testing for an e-commerce web application.
-- Implemented test scripts using **Selenium WebDriver**.
-- Integrated **JUnit and TestNG** for test execution.
+### **[HelpixAPI](https://github.com/mmalkhazov/DemoqaUI)**
+**Rest Assured, Lombok,TestNG, Gradle**
+- Automated API testing for the Helpix web app. 
+
+### **[PhonebookUI](https://github.com/mmalkhazov/PhonebookUI)**
+**Selenium, TestNG, Gradle, Logback**
+- Automated UI testing for the Phonebook web app.
+
+ ### **[PhonebookAPI](https://github.com/mmalkhazov/QA49_PhonebookAPI)**
+**Rest Assured, Lombok,TestNG, Gradle**
+- Automated API testing for the Phonebook web app. 
+
+ ### **[ScontoUI](https://github.com/mmalkhazov/QA49_FirstSelenideProject)**
+**Selenide,Gradle**
+- Automated UI testing for the Sconto web app. 
+  
+
+ ### **[IlcarroUI](https://github.com/mmalkhazov/QA49_FirstCucumberProject)**
+**Cucumber,Gradle**
+- Automated UI testing for the Sconto web app. 
 
 
+
+### **[DemoWebShop](https://github.com/mmalkhazov/QA49_DemoWebShop_final)**
+**Selenium, TestNG, Gradle, Logback**
+- Automated UI testing for the Demowebshop web app.  
+
+  
+### **[DemoqaUI](https://github.com/mmalkhazov/DemoqaUI)**
+**Selenium, TestNG, Maven, Logback**
+- Automated UI testing for the Demoqa web app. 
+
+  
 
 ## 📜 Education
 🎓 **AIT-TR GmbH**, Berlin *(07/2024 – 02/2025)*  
